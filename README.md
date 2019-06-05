@@ -2,6 +2,7 @@
 
 * install the latest Node and NPM
 * install git
+* Angular needs to be installed too (ng command)
 * from a command line in a directory where you want to store the sample code
 ```
 git clone git@github.com:joeeames/thinkster-cypress-webinar-619.git
